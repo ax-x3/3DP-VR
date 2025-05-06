@@ -1,6 +1,6 @@
 # 3DP-VR
 ## A VERY SIMPLE 3D-printed VR headset for smartphone-compatible VR content.
--# (lenses not included)
+(lenses not included)
 
 This project isn't that serious, and I'm only putting it here for documentation purposes.
 
