@@ -3,15 +3,15 @@
 
 This project isn't that serious, and I'm only putting it here for documentation purposes.
 
-Currently available in only one size: 
+### Currently available in only one size: 
 68mm eye gap
 
 
-Lens specs:
+### Lens specs:
 50mm approx. focal length,
 36.6mm diameter (circular)
 
 
-Assembly:
+### Assembly:
 1. Press-fit the lenses into the circular holes.
 2. Use two rubber bands to secure a smartphone on the open side.
